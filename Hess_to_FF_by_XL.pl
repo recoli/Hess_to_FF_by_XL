@@ -6,7 +6,7 @@
 #  Hessian is read from Gaussian fchk file
 #  Output parameters are in GROMACS format
 #
-#  Copyright (C) Xin Li <lixin.reco@gmail.com>
+#  Copyright (C) 2012-2015 Xin Li <lixin.reco@gmail.com>
 #
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
